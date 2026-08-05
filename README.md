@@ -52,19 +52,6 @@
 ---
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AllanDexter14&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDexter14&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllanDexter14&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 Feel free to explore my repositories, leave feedback, or collaborate on projects.
