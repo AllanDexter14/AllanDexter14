@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3BA55D&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!" />
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=AllanDexter14\&style=for-the-badge\&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/AllanDexter14?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/AllanDexter14?style=for-the-badge)
 
